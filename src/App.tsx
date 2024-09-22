@@ -6,7 +6,7 @@ import "./App.css"
 const App = () => {
   return (
    <main>
-      <h1>TODO REACT + TYPESCRIPT </h1>
+      <h1>TASK TRACKER</h1><br/>
       <Navbar />
       <AddToDo />
       <Todos />
